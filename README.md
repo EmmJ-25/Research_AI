@@ -7,4 +7,4 @@ There is a CNN_model, trained with Dataset 2, a collection of X-Ray images, whic
 
 There are severall methods for the evaluation of the models.
 
-All is explained in my research paper "Research_EEB.pdf" including development, implementation and evaluation of the models givin several possibilities.
+All is explained in my research paper "Research_EEB.pdf" including development, implementation and evaluation of the models given several possibilities.
